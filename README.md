@@ -1,5 +1,5 @@
 
-# DoraCMS SQL (基于sequelize) 即将发布，进群了解最新动态！
+# Notice: DoraCMS SQL (基于sequelize) 即将发布，进群了解最新动态！
 
 # DoraCMS 2.1.7
 

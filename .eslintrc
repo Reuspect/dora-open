@@ -1,4 +1,3 @@
 {
-  "extends": "eslint-config-egg",
-  "strict": [2, "never"]
+  "extends": "eslint-config-egg"
 }

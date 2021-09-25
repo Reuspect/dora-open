@@ -125,7 +125,7 @@ export default {
     return {
       server_api: settings.server_api,
       countryCode: [
-        { value: "86", label: "中国 +86" },
+        { value: "86", label: "中国 +86" }
       ],
       rules: {
         userName: [

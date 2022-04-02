@@ -15,6 +15,8 @@ class AdminGroupController extends Controller {
   async list() {
     const { ctx, service } = this;
     try {
+      // debugger
+      console.log('??/', ctx.service)
       const payload = ctx.query;
       const adminGroupList = await ctx.service.adminGroup.find(payload);
 
